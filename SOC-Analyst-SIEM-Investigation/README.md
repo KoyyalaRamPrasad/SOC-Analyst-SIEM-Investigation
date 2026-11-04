@@ -1,4 +1,4 @@
-# SOC Analyst – SIEM Monitoring & Incident Investigation
+# SOC Analyst – SIEM Investigation
 
 ## Project Overview
 
