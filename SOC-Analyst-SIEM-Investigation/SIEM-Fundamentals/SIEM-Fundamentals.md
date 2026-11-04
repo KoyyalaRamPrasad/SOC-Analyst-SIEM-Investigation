@@ -1,4 +1,4 @@
-# Day 1 – SIEM Fundamentals
+# SIEM Fundamentals
 
 ## Project
 SOC-Analyst-SIEM-Investigation
